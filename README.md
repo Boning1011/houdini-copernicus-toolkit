@@ -4,7 +4,9 @@
 
 > **Now compatible with Houdini 22** (Python 3.13) — Houdini 21 remains fully supported.
 
-A growing toolkit of Copernicus nodes for Houdini 21 & 22, built from my daily work.
+MotionCOPs is an open-source Houdini Copernicus toolkit created and maintained by [Bo-Ning Li](https://boningli.com). It grows directly from my daily production work in Houdini 21 & 22.
+
+**Project page:** [boningli.com/rnd/motion-cops](https://boningli.com/rnd/motion-cops)
 
 Every tool here is one I actually use — tested on real projects at 10K+ resolution and refined through day-to-day use. Not a tech demo: it's the kit I reach for every day.
 
