@@ -12,6 +12,60 @@ Every tool here is one I actually use — tested on real projects at 10K+ resolu
 
 **Inside:** organic growth · stylization · dithering & risograph · glitch · Kubelka-Munk color · SOP ↔ image bridges · time & caching utilities
 
+## Work made with MotionCOPs
+
+MotionCOPs is built through production. Each piece below was made primarily with tools from the library; all visual work shown is my own. The toolkit and the images evolved together across commissioned installations, large-format screen work, and self-directed studies.
+
+<p align="center">
+  <img src="demo/selected_work/edge-of-chaos-fluid.webp" width="100%" alt="Edge-of-Chaos Fluid — a blue, green, black, and white fluid-field composition made with MotionCOPs"/>
+  <br/>
+  <sub><strong>Edge-of-Chaos Fluid</strong> — the project cover and a key production study: a reusable Copernicus fluid system developed with MotionCOPs workflows.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="demo/selected_work/23-springs.webp" width="100%" alt="23.Springs permanent LED installation for Granite Properties"/>
+      <br/>
+      <sub><strong>23.Springs / Granite Properties</strong> — MotionCOPs-driven image processing and procedural distortion for a permanent 8K installation.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="demo/selected_work/offf-barcelona.webp" width="100%" alt="OFFF Barcelona Screen projection driven by a monochrome fluid field"/>
+      <br/>
+      <sub><strong>OFFF Barcelona Screen</strong> — the fluid system adapted through MotionCOPs for a large-format façade projection.</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="demo/selected_work/field-study-panoramic.webp" width="100%" alt="Panoramic monochrome field study made with MotionCOPs"/>
+  <br/>
+  <sub><strong>Field study / GitHub banner</strong> — a panoramic simulation study developed with MotionCOPs field-processing tools.</sub>
+</p>
+
+<p align="center">
+  <img src="demo/selected_work/fluid-field-study.webp" width="100%" alt="Monochrome fluid-field study made with MotionCOPs"/>
+  <br/>
+  <sub><strong>Fluid-field study</strong> — a finished image from the same production-tested Copernicus workflow.</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="demo/selected_work/contour-study-dark.webp" width="100%" alt="Dark procedural contour study made with MotionCOPs"/>
+      <br/>
+      <sub><strong>Contour study I</strong> — feedback, edge analysis, and repeated line structures generated in MotionCOPs.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="demo/selected_work/contour-study-light.webp" width="100%" alt="Light procedural contour study made with MotionCOPs"/>
+      <br/>
+      <sub><strong>Contour study II</strong> — a second parameter state from the same procedural system.</sub>
+    </td>
+  </tr>
+</table>
+
+## Toolkit at a glance
+
 <img src="demo/all_nodes.png" width="500" alt="All MotionCOPs nodes"/>
 
 > Supports Houdini 21 & 22. Jump to [Installation](#installation).
